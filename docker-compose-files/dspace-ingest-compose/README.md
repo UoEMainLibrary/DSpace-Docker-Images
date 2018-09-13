@@ -21,7 +21,7 @@ export DPROJ=d6
 
 - Set the environment variable **AIP_DIR** to the directory containing your AIP files.
   - [DSpace AIP Files - Archival Ingest Packages](https://wiki.duraspace.org/display/DSDOC6x/DSpace+AIP+Format)
-  - A sample set is located [here](https://github.com/DSpace-Labs/DSpace-codenvy/tree/master/TestData).
+  - A sample set is located **[Dog Photos AIP Files](https://github.com/DSpace-Labs/DSpace-Docker-Images/tree/master/add-ons/sample-aip-files/DogPhotosAIP)** folder within this project.
 
 ```
 export AIP_DIR=...
