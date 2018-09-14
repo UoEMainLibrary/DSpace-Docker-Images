@@ -28,7 +28,7 @@ services:
       - "solr:/dspace/solr"
       # Set the following variable to a path containing AIP zip files
       # - "${AIP_DIR}:/aip-dir"
-      - "../../add-ons/sample-api-files/TestData:/ingest-tools"
+      - "../../add-ons/sample-aip-files/DogPhotosAIP:/aip-dir"
       # Set the following variable for ingest tools
       # Set this varible to the folder mount_ingest_tools within this project
       # - "${INGEST_TOOLS}:/ingest-tools"
